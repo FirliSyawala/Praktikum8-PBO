@@ -352,15 +352,3 @@ Cekrek! Foto berhasil disimpan di galeri Samsung.
 Samsung dimatikan. Goodbye.
 ```
 
-## Cara Menjalankan Program
-
-1. Buka proyek menggunakan NetBeans.
-2. Pastikan seluruh file Java berada dalam package `praktikum8.pbo`.
-3. Pilih class yang memiliki method `main()`.
-4. Jalankan `PoliTester` untuk menguji inheritance dan polymorphism.
-5. Jalankan `TesBangunDatar` untuk menguji abstract class.
-6. Jalankan `TesSmartphone` untuk menguji interface.
-
-## Kesimpulan
-
-Praktikum ini membahas penerapan konsep Object-Oriented Programming (OOP) dalam Java, yaitu inheritance, polymorphism, abstract class, dan interface. Inheritance memungkinkan suatu class mewarisi class lain, sedangkan polymorphism memungkinkan method yang sama menghasilkan perilaku berbeda sesuai jenis objek. Abstract class digunakan untuk menyediakan struktur dasar bagi class turunan, sementara interface menetapkan method yang harus diimplementasikan oleh suatu class. Penggunaan package `praktikum8.pbo` membantu mengelompokkan seluruh class agar struktur program lebih terorganisasi.
