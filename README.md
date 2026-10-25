@@ -34,9 +34,6 @@ NIM: L0325025
 
 Package yang digunakan dalam program ini adalah `praktikum8.pbo`. Package berfungsi untuk mengelompokkan class agar program lebih terstruktur dan mudah dikelola.
 
-Untuk membuat package di NetBeans, klik kanan pada bagian Source Packages, pilih New > Java Package, kemudian masukkan nama `praktikum8.pbo`.
-
-Deklarasi package yang ditambahkan pada setiap file Java adalah sebagai berikut.
 
 ```java
 package praktikum8.pbo;
