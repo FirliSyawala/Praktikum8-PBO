@@ -1,5 +1,4 @@
 # Praktikum Pemrograman Berorientasi Objek (PBO)
-# Polimorfisme, Abstract, dan Interface
 ## Struktur Folder
 
 Praktikum8-PBO/
